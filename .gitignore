@@ -1,0 +1,3 @@
+backend/uploads/
+*.zip
+node_modules/
